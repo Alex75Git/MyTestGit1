@@ -1,0 +1,12 @@
+package com.example.alexandr.mytestgit1
+
+import android.support.v7.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivityTestGit1 : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main_test_git1)
+    }
+}
