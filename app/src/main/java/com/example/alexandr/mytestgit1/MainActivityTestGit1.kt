@@ -11,5 +11,6 @@ class MainActivityTestGit1 : AppCompatActivity() {
 
         // commit 2
         // commit 5
+        // commit 6 after "reset to here"
     }
 }
