@@ -10,6 +10,8 @@ class MainActivityTestGit1 : AppCompatActivity() {
         setContentView(R.layout.activity_main_test_git1)
 
         // commit 2
+        // commit 3
+        // commit 4
         // commit 5
         // commit 6 after "reset to here"
     }
