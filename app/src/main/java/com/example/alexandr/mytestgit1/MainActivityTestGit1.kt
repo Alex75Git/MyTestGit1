@@ -11,8 +11,7 @@ class MainActivityTestGit1 : AppCompatActivity() {
 
         // commit 2
         // commit 3
-        // commit 4
-        // commit 5
-        // commit 6 after "reset to here"
+
+        // reset branch to commit 3_1
     }
 }
